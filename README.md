@@ -1,2 +1,2 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=z3ro-c0nfig&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="z3roc0nfig" data-color="#BD5FFF" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/z3roc0nfig"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=z3roc0nfig&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
