@@ -1,4 +1,4 @@
-<a tabindex="-1" aria-hidden="true" class="originalLink__0d99e" href="https://cdn.discordapp.com/attachments/1211390156314124301/1235234001891889173/aki0_orig.gif?ex=6633a0cf&amp;is=66324f4f&amp;hm=8122dcc599deeb3eb5923e40ec64212a645d02f3fd11692f7ac8f819fe1285c3&amp;" data-role="img" data-safe-src="https://media.discordapp.net/attachments/1211390156314124301/1235234001891889173/aki0_orig.gif?ex=6633a0cf&amp;is=66324f4f&amp;hm=8122dcc599deeb3eb5923e40ec64212a645d02f3fd11692f7ac8f819fe1285c3&amp;=&amp;format=webp&amp;width=605&amp;height=192"></a>
+<img src="https://z3ro-c0nfig.github.io/uploads/1/4/1/9/141949861/aki0_orig.gif" alt="Picture" style="width:auto;max-width:100%">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=z3ro-c0nfig&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
