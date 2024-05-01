@@ -1,4 +1,4 @@
-<img src="https://z3ro-c0nfig.github.io/uploads/1/4/1/9/141949861/aki0_orig.gif" alt="Picture" style="width:auto;max-width:100%">
+<img src="https://z3ro-c0nfig.github.io/uploads/1/4/1/9/141949861/aki0_orig.gif" alt="Picture" style="width:495px;height:195px">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=z3ro-c0nfig&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
