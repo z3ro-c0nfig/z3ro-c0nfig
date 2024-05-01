@@ -1,3 +1,5 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=z3ro-c0nfig&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://www.buymeacoffee.com/z3roc0nfig"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=z3roc0nfig&button_colour=292929&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/aki0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a kebab&emoji=🥙&slug=aki0&button_colour=000000&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1200px; height: 821px; margin: 0px; width: 749px;" alt="Python" jsname="kn3ccd" aria-hidden="false">
