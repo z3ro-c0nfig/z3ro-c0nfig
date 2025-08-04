@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm AK</h1>
 <h3 align="center">Making random stuff that nobody asked for 🔥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z3ro-c0nfig&label=Profile%20views&color=0e75b6&style=flat" alt="z3ro-c0nfig" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/23917662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23917662" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aki_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aki_41" height="30" width="40" /></a>
+<a href="https://discord.com/users/nznp" target="blank"><img align="center" src="https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.jpeg" alt="nznp" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
