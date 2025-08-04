@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3ro-c0nfig&label=Profile%20views&color=0e75b6&style=flat" alt="z3ro-c0nfig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3ro-c0nfig" alt="z3ro-c0nfig" /></a> </p>
-
-- 🔭 I’m currently working on [RFBox](https://github.com/z3ro-c0nfig/rfbox)
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on [a](a)
-
-- 👨‍💻 All of my projects are available at [https://github.com/z3ro-c0nfig?tab=repositories](https://github.com/z3ro-c0nfig?tab=repositories)
-
-- 📫 How to reach me **nznp on Discord**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/23917662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23917662" height="30" width="40" /></a>
